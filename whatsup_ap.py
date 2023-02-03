@@ -1,1 +1,1 @@
-print("good ni8")
+print("good morng")
